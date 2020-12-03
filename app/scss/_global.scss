@@ -1,0 +1,32 @@
+body {
+    font-family: 'Lato', serif;
+    color: #fff;
+}
+
+.title {
+    font-weight: 300;
+    font-size: 60px;
+    line-height: 58px;
+    margin-bottom: 30px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.subtitle {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 58px;
+    text-transform: uppercase;
+}
+
+.text {
+    color: #fff;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.stop-scrolling {
+    height: 100%;
+    overflow: hidden;
+}
